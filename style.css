@@ -1,0 +1,46 @@
+
+/* Стили для картинки */
+
+/* html {
+    scroll-behavior: smooth;
+ } */
+
+.image {
+    max-width: 100%;
+}
+
+/* Стили кода */
+
+.wrapper {
+    max-height: 100vh;
+    border: 2px solid red;
+    width: 320px;
+}
+
+div.field {
+    margin-left: 10px; 
+    padding-bottom: 25px;
+  }
+div.field:first-child {
+    margin-top: 10px; 
+}
+div.field:last-child {
+    margin-bottom: 0; 
+}
+div.field label {
+    display: block;
+    float: left;
+    width: 100px;
+    height: 15px;
+}
+
+input {
+    height: 20px;
+}
+
+.btn {
+    margin-left: 195px;
+    margin-bottom: 5px;
+    width: 100px;
+}
+
